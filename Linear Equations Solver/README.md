@@ -1,4 +1,5 @@
 # Project: Linear Equations Solver
+https://hyperskill.org/projects/40
 
 This project is by Jetbrains Academy.
 
