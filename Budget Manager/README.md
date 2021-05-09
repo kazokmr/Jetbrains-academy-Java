@@ -1,4 +1,5 @@
 # Project: Budget Manager
+https://hyperskill.org/projects/76
 
 This project is by Jetbrains Academy.
 
