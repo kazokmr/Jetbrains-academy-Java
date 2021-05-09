@@ -1,4 +1,5 @@
 # Project: Maze Runner
+https://hyperskill.org/projects/47
 
 This project is by Jetbrains Academy.
 
