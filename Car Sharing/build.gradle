@@ -17,11 +17,6 @@ configurations.all {
     resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
 }
 
-sourceSets {
-    main.java.srcDir 'src'
-    test.java.srcDir 'test'
-}
-
 test {
     systemProperty "file.encoding", "utf-8"
 }
