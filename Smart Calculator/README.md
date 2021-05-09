@@ -1,4 +1,6 @@
 # Project: Smart Calculator
+https://hyperskill.org/projects/42
+
 This project is by Jetbrains Academy.
 
 ## About
