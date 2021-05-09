@@ -1,4 +1,5 @@
 # Project: File Type Analyzer
+https://hyperskill.org/projects/64
 
 This project is by Jetbrains Academy.
 
