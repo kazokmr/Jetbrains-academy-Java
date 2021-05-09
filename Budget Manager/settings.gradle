@@ -1,2 +1,3 @@
 rootProject.name = 'Budget Manager'
+include 'Linear Equations Solver'
 
