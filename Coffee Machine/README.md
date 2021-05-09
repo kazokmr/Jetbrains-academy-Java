@@ -1,4 +1,6 @@
 # Project: Coffee Machine
+https://hyperskill.org/projects/33
+
 This project is by Jetbrains Academy.
 
 ## About
