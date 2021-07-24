@@ -1,0 +1,16 @@
+correcter/FileDecoder.java
+ correcter.FileDecoder
+correcter/FileAnalyzer.java
+ correcter.FileAnalyzer
+correcter/FileSender.java
+ correcter.FileSender
+correcter/FileEncoder.java
+ correcter.FileEncoder
+correcter/FileCorrecter.java
+ correcter.FileCorrecter
+correcter/ErrorEmulator.java
+ correcter.ErrorEmulator
+correcter/ByteErrorEmulator.java
+ correcter.ByteErrorEmulator
+correcter/Main.java
+ correcter.Main

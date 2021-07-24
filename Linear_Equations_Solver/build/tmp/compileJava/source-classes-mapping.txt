@@ -1,0 +1,14 @@
+solver/Row.java
+ solver.Row
+solver/Equation.java
+ solver.Equation
+solver/ComplexNumbers.java
+ solver.ComplexNumbers
+solver/Main.java
+ solver.Main
+solver/Matrix.java
+ solver.Matrix
+solver/SimultaneousEquation.java
+ solver.SimultaneousEquation
+solver/LinearEquation.java
+ solver.LinearEquation

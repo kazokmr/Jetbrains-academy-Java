@@ -1,0 +1,30 @@
+animals/game/knowledge/KnowledgeFormatter.java
+ animals.game.knowledge.KnowledgeFormatter
+animals/game/i18n/AppResource.java
+ animals.game.i18n.AppResource
+animals/game/knowledge/knowledgebase/AnimalSearcher.java
+ animals.game.knowledge.knowledgebase.AnimalSearcher
+animals/game/knowledge/dao/KnowledgeNodeDao.java
+ animals.game.knowledge.dao.KnowledgeNodeDao
+animals/game/Game.java
+ animals.game.Game
+animals/game/Menu.java
+ animals.game.Menu
+animals/game/GuessingGame.java
+ animals.game.GuessingGame
+animals/game/message/Greeting.java
+ animals.game.message.Greeting
+animals/game/learning/LearningAnimals.java
+ animals.game.learning.LearningAnimals
+animals/game/message/Confirmation.java
+ animals.game.message.Confirmation
+animals/Main.java
+ animals.Main
+animals/game/knowledge/KnowledgeNode.java
+ animals.game.knowledge.KnowledgeNode
+animals/game/knowledge/knowledgebase/AnimalStatics.java
+ animals.game.knowledge.knowledgebase.AnimalStatics
+animals/game/message/Goodbyes.java
+ animals.game.message.Goodbyes
+animals/game/knowledge/KnowledgeTree.java
+ animals.game.knowledge.KnowledgeTree

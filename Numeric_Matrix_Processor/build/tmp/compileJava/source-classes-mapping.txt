@@ -1,0 +1,14 @@
+processor/DeterminantOfMatrix.java
+ processor.DeterminantOfMatrix
+processor/Main.java
+ processor.Main
+processor/Row.java
+ processor.Row
+processor/Matrix.java
+ processor.Matrix
+processor/InverseMatrix.java
+ processor.InverseMatrix
+processor/MatrixCalculator.java
+ processor.MatrixCalculator
+processor/MatrixTransposer.java
+ processor.MatrixTransposer

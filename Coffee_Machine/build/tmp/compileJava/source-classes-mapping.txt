@@ -1,0 +1,5 @@
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+ machine.CoffeeMachine$1
+ machine.CoffeeMachine$Action
+ machine.CoffeeMachine$Coffee
